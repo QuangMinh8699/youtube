@@ -11,6 +11,7 @@ public class Main {
 
         int a = 12;
         int b = a;
+        int tong = a + b;
 
         String s1 = "ABC";
         String s2 = s1;
